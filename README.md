@@ -4,7 +4,7 @@ In this notebook, you'll explore the iconic `mtcars` dataset. Why mtcars? Becaus
 
 Open `notebook.ipynb`. Since we've already done lots of plotting distributions in one variable, that is already done for you! Just look at the plots, answer the summary questions, and move on! You may have to do some of your own research about mtcars. Google around for documentation. 
 
-Finally, the last section asks you to do more exploratory data viz, but this time with scatter plots in two dimensions, focusing on the ways in which the variables are related to one another. We start out with a question about fuel efficiency (`mpg`), but we'll move on to thinking more generally about how these variables relate to one another.
+Finally, the last section asks you to do more exploratory data viz, but this time with scatter plots in two (or more) dimensions, focusing on the ways in which the variables are related to one another. We start out with a question about fuel efficiency (`mpg`), but we'll move on to thinking more generally about how these variables relate to one another.
 
 ## Note
 
